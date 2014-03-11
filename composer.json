@@ -1,7 +1,7 @@
 {
-    "name": "takaaki-mizuno/smaregi",
-    "description": "php interface to smaregi",
-    "keywords": ["api", "smaregi"],
+    "name": "takaaki-mizuno/hostip",
+    "description": "php interface to hostip.info",
+    "keywords": ["api", "hostip"],
     "type": "library",
     "license": "MIT",
     "homepage": "https://github.com/takaaki-mizuno/php-hostip",
